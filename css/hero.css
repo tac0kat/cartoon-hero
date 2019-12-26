@@ -1,31 +1,33 @@
 body{
 	margin:0;
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 28px;
 	line-height: 30px;
 }
 header{
-	background-color: #d14635;
+	background-image: url("https://image.freepik.com/free-vector/metal-texture-background_46250-146.jpg");
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 
+
 }
 h2{
-	font-family: 'Gloria Hallelujah', cursive;
-	font-size: 30px;
-	color: #e70c19;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 35px;
+	color: #797B8B;
 	margin: 40px 0px 10px;
+  	text-decoration: underline overline wavy black;	
 }
 header h1{
-	color: white;
-	font-family: 'Gloria Hallelujah', cursive;
-	font-size: 50px;
+	color: #000000;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 75px;
 }
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid white;
+	border: 10px solid black;
 }
 
 
@@ -39,15 +41,15 @@ main img{
 	max-width: 100%;
 }
 a{
-	color: #e70c19;
+	color: #000000;
 
 }
 a:hover{
 	color: white;
-	background-color:#483a94;
+	background-color:#797B8B;
 }
 footer{
-	background-color: #d14635;
+	background-color: #797B8B;
 	text-align: center;
 	color: white;
 
@@ -66,4 +68,5 @@ p.caption{
 	color: #999999;
 	font-style: italic;
 	margin-top: 0;
+	text-decoration: underline overline dotted black;
 }
